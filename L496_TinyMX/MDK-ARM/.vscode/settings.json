@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "mbnet96_0.25_q.h": "c",
+        "vww96_q.h": "c"
+    }
+}
