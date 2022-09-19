@@ -1,8 +1,4 @@
 # Port TinyMaix to STM32L496
-1M Flash 
-320k RAM
-80 Mhz
-
 ## Chip
 |Item |Parameter|
 |--   |--|
